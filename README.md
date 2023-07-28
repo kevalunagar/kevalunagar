@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevalunagar&label=Profile%20views&color=0e75b6&style=flat" alt="kevalunagar" /> </p>
 
-- 🔭 I’m currently working on **academic projects**
+- 🔭 I’m currently working at **Incubyte Consulting LLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kevalunagar](https://github.com/kevalunagar)
 
